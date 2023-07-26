@@ -5,7 +5,7 @@
     const findme = "Ways to find me";
     const linkedin = "LinkedIn";
     const github = "GitHub";
-    const hashnode = "Hashode";
+    const hashnode = "Hashnode";
 </script>
 
 <!-- Hero.svelte -->
