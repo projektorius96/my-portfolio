@@ -12,7 +12,7 @@
     <div class="hero-content text-center">
     <div class="max-w-md">
         <img class="mask mask-circle" src={base + "/portfolio.png"} alt="portfolio" width="400" height="400">
-        <p class="text-4xl font-bold">{full_name}</p>
+        <p class="text-4xl italic font-bold">{full_name}</p>
         <div class="divider"><p class="text-lg italic">{findme}</p></div>
         <button class="btn btn-primary"><a href="https://www.linkedin.com/in/lukas-gaucas-985957266/" target="_blank">{linkedin}</a></button>
         <button class="btn btn-neutral"><a href="https://github.com/projektorius96" target="_blank">{github}</a></button>
